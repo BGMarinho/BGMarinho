@@ -1,4 +1,6 @@
+<head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
 <div>
   <a href="https://github.com/BGMarinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BGMarinho&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
